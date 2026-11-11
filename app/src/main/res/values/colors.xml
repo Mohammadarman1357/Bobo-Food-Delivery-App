@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  Light Mode All Colors  -->
+
+    <!-- Primary Colors -->
+    <color name="primary_100">#ECF1E8</color>
+    <color name="primary_200">#DDEFCE</color>
+    <color name="primary_300">#B7EC8C</color>
+    <color name="primary_400">#8BDE47</color>
+    <color name="primary_500">#67BD1F</color>
+    <color name="primary_600">#54A312</color>
+    <color name="primary_700">#408308</color>
+
+    <!-- Typography Colors -->
+    <color name="typography_100">#B6B8B5</color>
+    <color name="typography_200">#91958E</color>
+    <color name="typography_300">#70756B</color>
+    <color name="typography_400">#60655C</color>
+    <color name="typography_500">#363A33</color>
+
+    <!-- Grey Colors -->
+    <color name="grey_0">#FFFFFF</color>
+    <color name="grey_50">#F9FAF8</color>
+    <color name="grey_100">#F4F7F2</color>
+    <color name="grey_200">#E8EBE6</color>
+    <color name="grey_300">#A9ADA5</color>
+    <color name="grey_400">#91958E</color>
+    <color name="grey_500">#60635E</color>
+
+    <!-- Other Accent Colors -->
+    <color name="other_red">#E25839</color>
+    <color name="other_yellow">#F5AE42</color>
+    <color name="other_blue">#24B5D4</color>
+    <color name="other_green">#45B733</color>
+    <color name="other_orange">#E8712E</color>
+
+    <!-- Transparent Overlay Colors -->
+    <color name="transparent_grey_500_6">#0F60635E</color> <!-- 6% Alpha -->
+    <color name="transparent_grey_0_92">#EBFFFFFF</color>    <!-- 92% Alpha -->
+    <color name="transparent_primary_600_24">#3D54A312</color> <!-- 24% Alpha -->
+    <color name="transparent_background_blur_80">#CC9FA19E</color> <!-- 80% Alpha -->
+
+    <!-- Gradient Colors -->
+    <color name="gradient_light">#5EAD1D</color>
+    <color name="gradient_dark">#54A312</color>
+
+    <!-- Base Colors -->
+    <color name="base_white">#FFFFFF</color>
+    <color name="base_black">#232522</color>
+
+
+</resources>

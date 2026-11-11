@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--    Dark Mode All Colors -->
+    <!-- Primary Colors (Dark Variant) -->
+    <color name="primary_100">#3B3F38</color>
+    <color name="primary_200">#3E532D</color>
+    <color name="primary_300">#436923</color>
+    <color name="primary_400">#5D9E26</color>
+    <color name="primary_500">#6CB231</color>
+    <color name="primary_600">#70BA32</color>
+    <color name="primary_700">#88CD4E</color>
+
+    <!-- Typography Colors (Dark Variant) -->
+    <color name="typography_100">#7F7F7E</color>
+    <color name="typography_200">#888A87</color>
+    <color name="typography_300">#9FA19E</color>
+    <color name="typography_400">#C8C9C7</color>
+    <color name="typography_500">#EEF0ED</color>
+
+    <!-- Grey Colors (Dark Variant) -->
+    <color name="grey_0">#262725</color>
+    <color name="grey_50">#2D2E2C</color>
+    <color name="grey_100">#313330</color>
+    <color name="grey_200">#3D3D3D</color>
+    <color name="grey_300">#7A7A79</color>
+    <color name="grey_400">#989998</color>
+    <color name="grey_500">#D5D6D3</color>
+
+    <!-- Other Accent Colors (Dark Variant) -->
+    <color name="other_red">#FB6A57</color>
+    <color name="other_yellow">#FBB650</color>
+    <color name="other_blue">#6FBDCE</color>
+    <color name="other_green">#8CEC7D</color>
+    <color name="other_orange">#E48047</color>
+
+    <!-- Transparent Overlay Colors (Dark Variant) -->
+    <color name="transparent_grey_500_6">#0FD5D6D3</color>
+    <color name="transparent_grey_0_92">#EB262725</color>
+    <color name="transparent_primary_600_24">#3D70BA32</color>
+    <color name="transparent_background_blur_88" tools:ignore="MissingDefaultResource">#E0262725</color>
+
+    <!-- Gradient Colors (Dark Variant) -->
+    <color name="gradient_light">#6CB231</color>
+    <color name="gradient_dark">#6CB231</color>
+
+    <!-- Base Colors (Dark Variant) -->
+    <color name="base_white">#FFFFFF</color>
+    <color name="base_black">#F0EFED</color>
+
+</resources>
